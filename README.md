@@ -162,6 +162,12 @@ Test seti: **478 örnek** | Metrikler: Accuracy, Precision, Recall, F1, Valid JS
 | Few-shot | **0.6333** | 0.7492 | 0.6333 | **0.6472** | 0.9933 | 2.214s | 194.8 |
 | Role-play | 0.4133 | 0.5725 | 0.4133 | 0.4051 | 0.9800 | 2.166s | 138.7 |
 
+### 📊 Grafikler
+
+![Accuracy & F1 Karşılaştırması](chart_1.png)
+
+![Latency Karşılaştırması](chart_2.png)
+
 ### 🏆 Genel Model Karşılaştırması
 
 | Model | En İyi Prompt | Accuracy | F1 |
