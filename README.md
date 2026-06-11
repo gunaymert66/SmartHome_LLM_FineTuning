@@ -41,6 +41,8 @@ To extract the ground truth results, three specific prompt templates were engine
 
 A comparative analysis was conducted between the fine-tuned SLMs and baseline large language models (not specialized for this task). The complete evaluation metrics can be found in the `final_results.csv` and `slm_results.csv` files.
 
+
+
 ### Gemma 2B (Fine-Tuned) Performance
 Gemma demonstrated exceptional architectural adaptability for localized smart home control. It successfully learned the schema and achieved high accuracy, particularly when constrained by a Role-Play prompt.
 
